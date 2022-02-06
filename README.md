@@ -45,18 +45,6 @@ https://watch.screencastify.com/v/uTwtI0G3eaiUyKQQfURP
 Usage
 AS A manager at an internet retail company I WANT a back end for my e-commerce website that uses the latest technologies SO THAT my company can compete with other e-commerce companies
 
-License
-N/A
-
-Contributors
-Bridget Schaefer
-
-Contact
-GitHub :bridgetvon
-E-mail :bridget.schaefer31@gmail.com
-
-Usage
-AS A manager at an internet retail company I WANT a back end for my e-commerce website that uses the latest technologies SO THAT my company can compete with other e-commerce companies 
 
 License
 N/A
